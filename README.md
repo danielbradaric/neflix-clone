@@ -1,8 +1,10 @@
+#Live Preview
+
+You can check live preview of this app on this link (firebase hosting) => https://netflix-clone-70581.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-You can check live preview of this app on this link (firebase hosting) => https://netflix-clone-70581.web.app/
 
 ## Available Scripts
 
