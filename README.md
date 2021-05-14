@@ -1,5 +1,3 @@
-#Live Preview
-
 You can check live preview of this app on this link (firebase hosting) => https://netflix-clone-70581.web.app/
 
 # Getting Started with Create React App
